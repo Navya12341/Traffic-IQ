@@ -1,0 +1,13 @@
+# Data files
+data/combined_data.csv
+data/combined_data.csv.zip
+
+# Python
+__pycache__/
+model_training2.py[cod]
+
+# Logs
+training_log.txt
+
+# Mac specific
+.DS_Store
