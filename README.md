@@ -68,7 +68,7 @@ The dataset (`combined_data.zip`) is provided in the `data` directory. See `data
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ML-MultiClass-MaxAccuracy-Pipeline.git
+git clone https://github.com/Navya12341/Traffic-IQ
 
 # Install required packages
 pip install -r requirements.txt
