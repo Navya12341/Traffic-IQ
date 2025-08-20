@@ -1,4 +1,4 @@
-# ML-MultiClass-MaxAccuracy-Pipeline
+# Traffic IQ
 
 An advanced machine learning pipeline optimized for maximum accuracy in multi-class classification tasks, featuring automated preprocessing, parallel processing, and ensemble modeling.
 
